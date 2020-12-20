@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: column
+}
+.header{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    text-align: center
+}
+.body{
+    background-color: rgb(252, 250, 248);
+    text-align: center;
+}
